@@ -255,7 +255,7 @@ export default {
 .card-icon .card-icon-body{
     padding: 20px;
     border-radius: 12px;
-    background-color: powderblue
+    background-color: powderblue;
 }
 
 .card-icon-i{
