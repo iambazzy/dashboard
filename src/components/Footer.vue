@@ -2,7 +2,7 @@
     <footer>
         <div class="footer-content">
             <p>
-                developed by <a href="https://romulodevweb.com.br/" target="_blank">Rômulo Rodrigues</a> 2020
+                Analytics Dashboard
             </p>
         </div>
     </footer>

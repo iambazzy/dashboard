@@ -240,6 +240,9 @@ export default {
     flex-wrap: wrap;
 }
 
+.cards > .card {
+    background-color: powderblue;
+}
 .card-icon{
     flex: 1 1 18%;
     background: #ffffff;
@@ -251,13 +254,15 @@ export default {
 
 .card-icon .card-icon-body{
     padding: 20px;
+    border-radius: 12px;
+    background-color: powderblue
 }
 
 .card-icon-i{
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    background-color:#e5f4e7;
+    background-color:white;
     margin: 0 auto;
     position: relative;
 }
@@ -343,7 +348,7 @@ export default {
         box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
     margin: 0 5px;
         color: #fff;
-    background-color:#5dae8b;
+    background-color: powderblue;
     border-color: #5dae8b;
     border-radius: 0.375rem;
     font-weight: 500;

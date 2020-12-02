@@ -2,7 +2,7 @@
     <div>
         <div class="nav">
             <a href="#" class="nav-logo">
-                <img src="../assets/logo.png" alt="">
+                <img src="https://img.icons8.com/clouds/2x/dashboard.png" alt="">
             </a>
             <div class="nav-mobile">
                 <i class="fa fa-bars" v-on:click="openMenuMobile()"></i>  
@@ -10,10 +10,10 @@
         </div>
         <div class="menu" id="menu">
             <div class="menu-logo">
-				<img src="../assets/about.jpg" alt="">
+				<img src="https://www.pngarts.com/files/5/Avatar-Face-Transparent-Background-PNG.png" alt="">
 			</div>
             <div class="menu-name">
-                <h2>Rômulo Rodrigues</h2>
+                <h2>Basit Mir</h2>
                 <div class="menu-name-social-icons">
                     <a href="">
                         <i class="fa fa-facebook"></i>
@@ -189,7 +189,7 @@ export default {
     width: 80px;
     height: 100%;
     display: inline-block;
-    background-color:#5DAE8B;
+    background-color:#000000;
     z-index: 5;
     position: fixed;
 }
